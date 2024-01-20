@@ -58,8 +58,9 @@ El selector de cadena de destino (destinationChainSelector) está configurado en
 **[Redes compatibles con CCIP](https://docs.chain.link/ccip/supported-networks)**
 
 
+
 **[​Día 5 ​Mentoring session with the Chainlink community](https://www.youtube.com/watch?v=24Ii_0HjiWo)**
-Mentoria con algunos miembros de la comunidad en español de Chainlink.
+- Mentoria con algunos miembros de la comunidad en español de Chainlink.
 
 **[​Día 6 ​NFTs and Chainlink Automation](https://www.youtube.com/watch?v=I0J7BiznF_k)**
 
