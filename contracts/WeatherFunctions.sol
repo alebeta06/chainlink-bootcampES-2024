@@ -138,13 +138,13 @@ contract WeatherFunctions is FunctionsClient {
         emit Response(requestId, lastTemperature, lastResponse, lastError);
     }
 
-	function getCity(string memory city) public view returns (CityStruct memory) {
-    	return cities[cityIndex[city]];
-	}
+    function getCity(string memory city) public view returns (CityStruct memory) {
+        return cities[cityIndex[city]];
+    }
 
-	function listAllCities() public view returns (CityStruct[] memory) {
-    	return cities;
-	}
+    function listAllCities() public view returns (CityStruct[] memory) {
+        return cities;
+    }
 
     function listCities(uint start, uint end) public view returns (CityStruct[] memory) {
         if (end > cities.length)
